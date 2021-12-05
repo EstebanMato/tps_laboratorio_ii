@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KjmLGGqyEBh19vGFKspX4RxgSOleEQFbjlE0QogQ7EGqtrExfhXU7gGEs5d5nIl1LUCB83JiRY2u28V2AOB06A==",
+  "dgSpecHash": "IbByaPcsoOlKIidJBG7dsZIDrTmP5RVXEP875Zbrg7M7NcuQAw9J1Mu9VEh8B8U5RerYEhBxXANXXKSnmFb6Cg==",
   "success": true,
-  "projectFilePath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Esteban\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Esteban\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

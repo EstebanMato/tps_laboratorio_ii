@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5usoUiQIWRwofLjyPV1Lw1u6DfBjcx0ThhRh2uScRDjBUHMxSlziwWcCLBOLYgLopHPHEAWEdWM5JCdvGq22OA==",
+  "dgSpecHash": "8QTRHpL/wHtzA1+whLuVA1900zZD5z3fY3u7qQp5O9kZTEhxbuxayMJa7KgsHaSviI4Waa1H3Qd+NStIt0fQrQ==",
   "success": true,
-  "projectFilePath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj",
+  "projectFilePath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Esteban\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Esteban\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

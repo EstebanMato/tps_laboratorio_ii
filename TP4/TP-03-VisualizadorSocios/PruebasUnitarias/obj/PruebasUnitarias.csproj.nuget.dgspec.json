@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj": {}
+    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj": {}
   },
   "projects": {
-    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {
+    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-        "outputPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\obj\\",
+        "outputPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj": {
+    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj",
+        "projectUniqueName": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj",
         "projectName": "PruebasUnitarias",
-        "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj",
+        "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\PruebasUnitarias\\PruebasUnitarias.csproj",
         "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-        "outputPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\PruebasUnitarias\\obj\\",
+        "outputPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\PruebasUnitarias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj"
+              "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj"
               }
             }
           }

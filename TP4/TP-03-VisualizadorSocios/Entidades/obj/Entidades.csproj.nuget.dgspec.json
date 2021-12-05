@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {}
+    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {
+    "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-        "outputPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\obj\\",
+        "outputPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",

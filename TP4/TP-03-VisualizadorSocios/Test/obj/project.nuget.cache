@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s63GLNnmq91GG7nMRD+UkDNnjasT60Taq7o8TnA4KN3k0lufFtQSyD/viEnc+L/uROc3MOJLEdWQ783VrwnA1A==",
+  "dgSpecHash": "/8p2LMhxx9aQOWcCT7AgT1aNEhAXVgxBdibfmZWnKiwTJTBydv9jd6S7Y7U+dmBiFYSSbPFWLedhNi62Paqj8g==",
   "success": true,
-  "projectFilePath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Test\\Test.csproj",
+  "projectFilePath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Esteban\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Esteban\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

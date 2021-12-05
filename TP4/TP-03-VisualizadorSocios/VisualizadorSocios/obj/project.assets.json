@@ -478,11 +478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\VisualizadorSocios\\VisualizadorSocios.csproj",
+      "projectUniqueName": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\VisualizadorSocios\\VisualizadorSocios.csproj",
       "projectName": "VisualizadorSocios",
-      "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\VisualizadorSocios\\VisualizadorSocios.csproj",
+      "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\VisualizadorSocios\\VisualizadorSocios.csproj",
       "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-      "outputPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\VisualizadorSocios\\obj\\",
+      "outputPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\VisualizadorSocios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -499,8 +499,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP3\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj"
+            "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TP4\\TP-03-VisualizadorSocios\\Entidades\\Entidades.csproj"
             }
           }
         }
